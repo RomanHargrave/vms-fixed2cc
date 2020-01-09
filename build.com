@@ -1,0 +1,5 @@
+$! Compile FIXED2CC.EXE
+$       CC FIXED2CC.C
+$       LINK FIXED2CC.OBJ
+$       CC FIXED2BIN.C
+$       LINK FIXED2BIN.OBJ

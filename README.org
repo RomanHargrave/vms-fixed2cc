@@ -1,0 +1,7 @@
+* OpenVMS RMS-to-Text Converter
+
+This utility converts RMS files to Unix-style text files ("binary" files without record indexing or metadata)
+
+** Target Platforms
+
+This was originally built and tested for OpenVMS VAX 7.1. It might run on other variations, but this has not been tested.
