@@ -1,6 +1,5 @@
 /**
  * RMS-to-Text Conversion tool For VMS
- * Currently only does fixed-length records
  */
 
 #include <stat.h>
